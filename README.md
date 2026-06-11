@@ -1,4 +1,4 @@
-# Shagun Catering — Serving Joy Since 1989
+# Shagun Catering — website
 
 Ahmedabad's premier catering service, a division of **Upper Crust**. Specializing in weddings, corporate events, sangeet, and intimate gatherings — from 500 to 5,000+ guests.
 
