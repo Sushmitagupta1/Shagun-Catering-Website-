@@ -44,14 +44,3 @@ Live site: [shaguncatering.com](https://shaguncatering.com)
 ├── robots.txt
 └── sitemap.xml
 ```
-
-## Contact
-
-- **Phone:** +91 89800 03121
-- **Email:** catering@cafeuppercrust.com
-- **Address:** Prahlad Nagar, Ahmedabad
-- **Facebook:** [Shagun.uppercrust](https://www.facebook.com/Shagun.uppercrust/)
-
----
-
-&copy; 2025 Shagun Catering — A division of Upper Crust. All rights reserved.
