@@ -1,7 +1,6 @@
 # Shagun Catering
 
-> Ahmedabad's premier catering service since 1989. A division of **Upper Crust**.
-> Specializing in weddings, corporate events, sangeet, and gatherings — 500 to 5,000+ guests.
+Ahmedabad's premier catering service since 1989. A division of Upper Crust. Specializing in weddings, corporate events, sangeet, and gatherings — 500 to 5,000+ guests.
 
 Live site: [shaguncatering.com](https://shaguncatering.com)
 
@@ -44,14 +43,5 @@ Live site: [shaguncatering.com](https://shaguncatering.com)
 ├── robots.txt
 └── sitemap.xml
 ```
-
-## Contact
-
-- **Phone:** +91 89800 03121
-- **Email:** catering@cafeuppercrust.com
-- **Address:** Prahlad Nagar, Ahmedabad
-- **Facebook:** [Shagun.uppercrust](https://www.facebook.com/Shagun.uppercrust/)
-
----
 
 &copy; 2025 Shagun Catering — A division of Upper Crust. All rights reserved.
