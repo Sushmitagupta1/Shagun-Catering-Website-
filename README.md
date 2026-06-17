@@ -44,4 +44,3 @@ Live site: [shaguncatering.com](https://shaguncatering.com)
 └── sitemap.xml
 ```
 
-&copy; 2025 Shagun Catering — A division of Upper Crust. All rights reserved.
