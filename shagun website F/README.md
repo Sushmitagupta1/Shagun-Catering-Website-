@@ -1,0 +1,1 @@
+A fully responsive catering website built with HTML, CSS, and vanilla JavaScript. Features include a hero slideshow, scroll animations, cuisine/service grids, filterable gallery, contact form, mobile hamburger nav, floating CTAs, and counter animations. Designed with a custom color scheme and Google Fonts.
